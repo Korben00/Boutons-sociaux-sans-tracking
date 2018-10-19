@@ -1,6 +1,8 @@
 Boutons-sociaux-sans-tracking
 =============================
 
+[![GuardRails badge](https://badges.production.guardrails.io/Korben00/Boutons-sociaux-sans-tracking.svg)](https://www.guardrails.io)
+
 Intégrer des boutons sociaux sans tracking
 
                LICENCE PUBLIQUE RIEN À BRANLER
